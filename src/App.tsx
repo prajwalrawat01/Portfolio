@@ -330,7 +330,9 @@ export default function App() {
               <div>
                 <div className="flex items-center justify-between mb-4">
                   <span className="px-3 py-1 rounded-full bg-cyan-500/10 text-cyan-400 text-xs font-mono border border-cyan-500/20">E-Commerce</span>
-                  <span className="w-2.5 h-2.5 rounded-full bg-emerald-400" title="Live Production"></span>
+                  <a href="https://www.big4health.com/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 text-sm flex items-center gap-1.5">
+                    <ExternalLink className="w-3.5 h-3.5" /> Visit website
+                  </a>
                 </div>
                 <h4 className="text-2xl font-bold text-white mb-2 group-hover:text-cyan-400 transition-colors">Big4Health E-commerce Platform</h4>
                 <p className="text-slate-400 text-sm mb-6 leading-relaxed">
@@ -354,7 +356,9 @@ export default function App() {
               <div>
                 <div className="flex items-center justify-between mb-4">
                   <span className="px-3 py-1 rounded-full bg-purple-500/10 text-purple-400 text-xs font-mono border border-purple-500/20">Digital Platform</span>
-                  <span className="w-2.5 h-2.5 rounded-full bg-emerald-400" title="Live Production"></span>
+                  <a href="https://console.museumdiamonds.com/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-purple-400 text-sm flex items-center gap-1.5">
+                    <ExternalLink className="w-3.5 h-3.5" /> Visit website
+                  </a>
                 </div>
                 <h4 className="text-2xl font-bold text-white mb-2 group-hover:text-purple-400 transition-colors">Museum Diamonds</h4>
                 <p className="text-slate-400 text-sm mb-6 leading-relaxed">
@@ -378,8 +382,8 @@ export default function App() {
               <div>
                 <div className="flex items-center justify-between mb-4">
                   <span className="px-3 py-1 rounded-full bg-emerald-500/10 text-emerald-400 text-xs font-mono border border-emerald-500/20">Full-Stack Digital Signage</span>
-                  <a href="https://digitalrevsystems.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 text-sm flex items-center gap-1">
-                    <ExternalLink className="w-3.5 h-3.5" /> digitalrevsystems.com
+                  <a href="https://www.digitalrevsystems.com/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-emerald-400 text-sm flex items-center gap-1.5">
+                    <ExternalLink className="w-3.5 h-3.5" /> Visit website
                   </a>
                 </div>
                 <h4 className="text-2xl font-bold text-white mb-2 group-hover:text-emerald-400 transition-colors">Digital Revenue Systems (DRS)</h4>
@@ -404,7 +408,9 @@ export default function App() {
               <div>
                 <div className="flex items-center justify-between mb-4">
                   <span className="px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 text-xs font-mono border border-blue-500/20">Internal Production Platform</span>
-                  <span className="w-2.5 h-2.5 rounded-full bg-emerald-400" title="Live System"></span>
+                  <a href="https://netsetsphere.netsetsoftware.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-blue-400 text-sm flex items-center gap-1.5">
+                    <ExternalLink className="w-3.5 h-3.5" /> Visit website
+                  </a>
                 </div>
                 <h4 className="text-2xl font-bold text-white mb-2 group-hover:text-blue-400 transition-colors">NetsetSphere</h4>
                 <p className="text-slate-400 text-sm mb-6 leading-relaxed">
