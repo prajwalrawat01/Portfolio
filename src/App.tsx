@@ -408,7 +408,7 @@ export default function App() {
               <div>
                 <div className="flex items-center justify-between mb-4">
                   <span className="px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 text-xs font-mono border border-blue-500/20">Internal Production Platform</span>
-                  <a href="https://netsetsphere.netsetsoftware.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-blue-400 text-sm flex items-center gap-1.5">
+                  <a href="https://netsetsphere.netsetsoftware.pro" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-blue-400 text-sm flex items-center gap-1.5">
                     <ExternalLink className="w-3.5 h-3.5" /> Visit website
                   </a>
                 </div>
